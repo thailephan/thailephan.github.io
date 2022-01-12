@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83876a5f.css",
+    "main.js": "/static/js/main.966f04eb.js",
+    "static/media/sign-image.png": "/static/media/sign-image.8ea8ca5bb456d7ea135e.png",
+    "static/media/1.jpg": "/static/media/1.72676b1ef3b954ca684a.jpg",
+    "static/media/2.jpg": "/static/media/2.72473a5261da4700a01a.jpg",
+    "static/media/3.jpeg": "/static/media/3.a028c740df29fcdc7bb3.jpeg",
+    "static/media/4.jpg": "/static/media/4.947f01bafde2ab7ec488.jpg",
+    "static/media/sign-image-background.png": "/static/media/sign-image-background.fa21f71a40b76dd1baa4.png",
+    "static/media/logo.jpg": "/static/media/logo.c944e62892fedf7c3e16.jpg",
+    "static/media/logo-HSV.png": "/static/media/logo-HSV.e3e19c0eb83497a9c4e5.png",
+    "static/media/sign-image-background-header.png": "/static/media/sign-image-background-header.e17e84d8a5cb61043bb0.png",
+    "static/media/sign-image-background-mobile.png": "/static/media/sign-image-background-mobile.ac15c076698f014aeefc.png",
+    "static/media/logo doan.png": "/static/media/logo doan.a26baa96d60773f6fd9d.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.83876a5f.css",
+    "static/js/main.966f04eb.js"
+  ]
+}
