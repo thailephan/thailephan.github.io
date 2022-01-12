@@ -7,8 +7,8 @@ const urlsToCache = [
     "static/fonts/Roboto-Medium.ttf",
     "static/fonts/Roboto-Light.ttf",
     "static/css/base.css",
-    "static/css/main.4bafe407.css",
-    "static/js/main.6ea5934b.js",
+    "static/css/main.83876a5f.css",
+    "static/js/main.966f04eb.js",
     "logo192.png",
     "favicon.ico",
 ];
