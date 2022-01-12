@@ -1,7 +1,7 @@
 const CACHE_NAME = "version-1";
 
 const urlsToCache = [
-    "/",
+    "index.html",
     "static/fonts/Roboto-Bold.ttf",
     "static/fonts/Roboto-Regular.ttf",
     "static/fonts/Roboto-Medium.ttf",
